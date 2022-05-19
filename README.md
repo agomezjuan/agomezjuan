@@ -3,7 +3,7 @@
 
 <ul>
  <li>👩🏻‍💻 Web Developer</li>
- <li>💻 I like to and code and teach</li>
+ <li>💻 I like to code and teach</li>
  <li>🎓 Longlife learner</li>
 </ul>
 
