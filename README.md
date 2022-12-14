@@ -1,4 +1,5 @@
 
+![snake gif](https://github.com/agomezjuan/agomezjuan/blob/output/github-contribution-grid-snake.svg)
 
 ### Hi there 👋
 
@@ -29,7 +30,6 @@
 
 [![Alberto Gómez Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=agomezjuan&show_icons=true&theme=city_lights&&hide=stars)](https://github.com/agomezjuan/github-readme-stats)
 
-![snake gif](https://github.com/agomezjuan/agomezjuan/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **agomezjuan/agomezjuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
