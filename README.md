@@ -25,6 +25,7 @@
 ### 🛠️ Tech stack
 
 #### Frontend
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=323330)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -42,6 +43,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563d7c?style=flat&logo=bootstrap&logoColor=white)
 
 #### Backend & data
+
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
@@ -50,6 +52,7 @@
 ![Bruno](https://img.shields.io/badge/-Bruno-F4AA41?style=flat&logo=bruno&logoColor=323330)
 
 #### DevOps & CI/CD
+
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-1f425f?style=flat&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=white)
@@ -59,8 +62,7 @@
 ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
 ![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 
-
-<!-- 
+<!--
 ### 🚀 Featured projects
 
 | Project | Description | Stack |
@@ -74,8 +76,8 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=agomezjuan&show_icons=true&theme=city_lights&hide_border=true&hide=stars" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agomezjuan&layout=compact&theme=city_lights&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=agomezjuan&show_icons=true&theme=city_lights&hide_border=true&hide=stars" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=agomezjuan&layout=compact&theme=city_lights&hide_border=true" />
 </p>
 
 <p align="center">
