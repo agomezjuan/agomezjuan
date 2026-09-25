@@ -76,8 +76,10 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=agomezjuan&show_icons=true&theme=city_lights&hide_border=true&hide=stars" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=agomezjuan&layout=compact&theme=city_lights&hide_border=true" />
+  <img src="https://github.com/agomezjuan/github-stats/raw/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://github.com/agomezjuan/github-stats/raw/generated/languages.svg#gh-dark-mode-only" />
+  <img src="https://github.com/agomezjuan/github-stats/raw/generated/overview.svg#gh-light-mode-only" />
+  <img src="https://github.com/agomezjuan/github-stats/raw/generated/languages.svg#gh-light-mode-only" />
 </p>
 
 <p align="center">
